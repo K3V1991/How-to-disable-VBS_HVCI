@@ -1,4 +1,4 @@
-<p align="center"><img src="How-to-disable-VBS_HVCI/blob/main/Toogle-off.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/How-to-disable-VBS_HVCI/blob/main/Toogle-off.png" width="200"></a>
 <h1 align="center"><b>How to disable VBS/HVCI to increase Performance in Windows 11</b></h1>
 <br />
 
