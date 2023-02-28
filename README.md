@@ -11,6 +11,13 @@
 <br />
 <br />
 
+## NFO:
+> Virtualization-based security allows Windows 11 to create a Secure Memory Enclave that's isolated from unsafe Code. 
+Another built-in feature called Hypervisor-Enforced Code Integrity (HVCI) uses the capabilities of VBS to prevent unsigned or questionable Drivers and Software from getting into Memory. 
+VBS and HVCI have a significant Performance Cost, particularly when it comes to gaming. As much as ~5% slower with these Settings on.
+<br />
+<br />
+
 ## Check VBS/HVCI Status:
 1. Open System Information
 2. Scroll down to find the ```Virtualization-based security```. If it says ```Running``` VBS is enabled.
